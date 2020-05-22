@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588412190918.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1038862261",
+    "id" : "5505C22D",
+    "lastKnownWriteTime" : 1588412253,
+    "last_content_update" : 1588412253856,
+    "path" : "~/Documents/UCL_2nd_sem/MasterResearch/MyRProject/R/CreatingObjects.R",
+    "project_path" : "R/CreatingObjects.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

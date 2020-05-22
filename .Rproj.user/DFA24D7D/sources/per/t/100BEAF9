@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589958871252.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1005443616",
+    "id" : "100BEAF9",
+    "lastKnownWriteTime" : 1589979820,
+    "last_content_update" : 1589979820909,
+    "path" : "~/Documents/UCL_2nd_sem/MasterResearch/MyRProject/R/MyCodes.R",
+    "project_path" : "R/MyCodes.R",
+    "properties" : {
+        "cursorPosition" : "71,0",
+        "scrollLine" : "60",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
